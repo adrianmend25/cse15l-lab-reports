@@ -3,8 +3,8 @@
 * Download VScode for Mac from the VScode website [here](https://code.visualstudio.com)
 
 # Remotely Connecting
-![RemotelyConnecting](LoggedinSS.png)
-* Look up course-specific account [acc](https://sdacs.ucsd.edu/~icc/index.php)
+![RemotelyConnecting](LoggedInSS.png)
+* Look up course-specific account [here](https://sdacs.ucsd.edu/~icc/index.php)
 * Open terminal in VScode and type in "$ ssh cs15lsp22auz@ieng6.ucsd.edu"
 * Type in "yes" followed by the password
 
